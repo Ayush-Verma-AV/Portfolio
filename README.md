@@ -54,4 +54,6 @@
 - **Assigned To**: Ayush 2 
 - **Labels**: Task, Setup  
 
-![Trello!](img\Trello.png "Trello SS")
+![Trello!][def]
+
+[def]: https://github.com/Ayush-Verma-AV/portfolio/blob/main/img/Trello.png "Trello SS"
