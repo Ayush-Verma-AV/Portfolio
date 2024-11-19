@@ -1,34 +1,35 @@
 # Milestones
-## Milestone 1: Complete Portfolio Homepage
+### Milestone 1: Complete Portfolio Homepage
 - **Description**: Design and develop the homepage with a header, introduction section, and navigation links.  
 - **Due Date**: 2024-11-25.  
 - **Significance**: The homepage sets the first impression and is the foundation of the portfolio.  
 
 
-## Milestone 2: Interactive Contact Form
+### Milestone 2: Interactive Contact Form
 - **Description**: Add a contact form with fields for name, email, and message. Include form validation.  
 - **Due Date**: 2024-11-28.  
 - **Significance**: Allows visitors to reach out directly, enhancing user interaction.  
 
 
-## Milestone 3: Dynamic Portfolio Projects Section
+### Milestone 3: Dynamic Portfolio Projects Section
 - **Description**: Build a section displaying projects dynamically using JavaScript. Include project titles, descriptions, and links.  
 - **Due Date**: 2024-12-02.  
 - **Significance**: Showcases work interactively, making the portfolio engaging.  
 
 
-## Milestone 4: Responsive Navigation Menu
+### Milestone 4: Responsive Navigation Menu
 - **Description**: Create a mobile-friendly navigation bar with dropdown functionality.  
 - **Due Date**: 2024-12-05.  
 - **Significance**: Ensures smooth navigation across devices, improving usability.  
 
 
-## Milestone 5: Interactive Testimonials Section
+### Milestone 5: Interactive Testimonials Section
 - **Description**: Add a carousel or slider for client or peer testimonials.  
 - **Due Date**: 2024-12-07.  
-- **Significance**: Builds credibility and makes the portfolio more engaging.  
+- **Significance**: Builds credibility and makes the portfolio more engaging. 
 
-## Issues
+
+# Issues
 ### **Issue 1: Bug Report**
 - **Title**: Fix Navigation Links  
 - **Description**: Navigation links on the homepage are not redirecting to the sections.  
@@ -49,7 +50,7 @@
 - **Assigned To**: Ayush 2 
 - **Labels**: Task, Setup  
 
-## **Trello Board SS**
+# **Trello Board SS**
 
 ![Trello!][def]
 
