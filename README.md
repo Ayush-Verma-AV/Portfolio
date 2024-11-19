@@ -54,4 +54,4 @@
 - **Assigned To**: Ayush 2 
 - **Labels**: Task, Setup  
 
-![Trello!]( \demorepo\portfolio\img\Trello.png "Trello SS")
+![Trello!](img\Trello.png "Trello SS")
