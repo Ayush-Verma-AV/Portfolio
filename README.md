@@ -1,3 +1,4 @@
+# Milestones
 ## Milestone 1: Complete Portfolio Homepage
 - **Description**: Design and develop the homepage with a header, introduction section, and navigation links.  
 - **Due Date**: 2024-11-25.  
@@ -27,7 +28,7 @@
 - **Due Date**: 2024-12-07.  
 - **Significance**: Builds credibility and makes the portfolio more engaging.  
 
-
+## Issues
 ### **Issue 1: Bug Report**
 - **Title**: Fix Navigation Links  
 - **Description**: Navigation links on the homepage are not redirecting to the sections.  
@@ -47,6 +48,8 @@
 - **Description**: Create and link a main.js file for adding interactive features to the website.  
 - **Assigned To**: Ayush 2 
 - **Labels**: Task, Setup  
+
+## **Trello Board SS**
 
 ![Trello!][def]
 
